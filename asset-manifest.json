@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/medidoresaltaspe/static/css/main.6884d43e.css",
-    "main.js": "/medidoresaltaspe/static/js/main.e552ce95.js",
+    "main.css": "/medidoresaltaspe/static/css/main.504c8cc7.css",
+    "main.js": "/medidoresaltaspe/static/js/main.6fbaac3d.js",
     "static/js/787.6e339f4d.chunk.js": "/medidoresaltaspe/static/js/787.6e339f4d.chunk.js",
     "index.html": "/medidoresaltaspe/index.html",
-    "main.6884d43e.css.map": "/medidoresaltaspe/static/css/main.6884d43e.css.map",
-    "main.e552ce95.js.map": "/medidoresaltaspe/static/js/main.e552ce95.js.map",
+    "main.504c8cc7.css.map": "/medidoresaltaspe/static/css/main.504c8cc7.css.map",
+    "main.6fbaac3d.js.map": "/medidoresaltaspe/static/js/main.6fbaac3d.js.map",
     "787.6e339f4d.chunk.js.map": "/medidoresaltaspe/static/js/787.6e339f4d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6884d43e.css",
-    "static/js/main.e552ce95.js"
+    "static/css/main.504c8cc7.css",
+    "static/js/main.6fbaac3d.js"
   ]
 }
